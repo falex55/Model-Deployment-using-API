@@ -12,7 +12,7 @@ Machine Learning Library for Accuracy and classification_report.
 ```python
 pip install scikit-learn
 ```
-##Docker Installation, docker hub and Postman
+## Docker Installation, docker hub and Postman
 
 [Docker]        (https://afourtech.com/guide-docker-commands-examples/) you will got docker setup here
 [Docker Hub] (https://hub.docker.com/) sign up and login to the Docker Hub 
@@ -31,7 +31,7 @@ In Deploy and Notebook folder there is whole code about the project and deployme
 there are two .pkl files, those are model which ceated for the respected model and scalar model as 
 mymodel.kl and scale.pkl respectively.
 
-##Docker Image
+## Docker Image
 have provided docker image in Docker image.txt file you can just pull it from repository and can use 
 it for your model deployment. 
 
