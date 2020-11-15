@@ -32,10 +32,10 @@ there are two .pkl files, those are model which ceated for the respected model a
 mymodel.kl and scale.pkl respectively.
 
 ## Docker Image
-have provided docker image in Docker image.txt file you can just pull it from repository and can use 
-it for your model deployment. 
 
-
+```shell
+docker pull falex55/breast_cancer:latest
+```
 
 
 
