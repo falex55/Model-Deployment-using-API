@@ -14,9 +14,9 @@ pip install scikit-learn
 ```
 ## Docker Installation, docker hub and Postman
 
-[Docker]        (https://afourtech.com/guide-docker-commands-examples/) you will got docker setup here
-[Docker Hub] (https://hub.docker.com/) sign up and login to the Docker Hub 
-[postman]      (https://www.postman.com/) you can download postman setup from here
+[Docker](https://afourtech.com/guide-docker-commands-examples)  you will got docker setup here
+[Docker Hub](https://hub.docker.com/) sign up and login to the Docker Hub 
+[postman](https://www.postman.com/) you can download postman setup from here
 
 ## Deployment Explanation 
 ## Step1:
